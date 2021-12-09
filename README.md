@@ -1,4 +1,8 @@
 # 強化学習による迷路の探索
+迷路の自動探索を行うエージェントをTD学習法で訓練する。
+例題迷路である。 Sは初期位置、 Gはゴールである。
+![image text](https://github.com/KKK12321/Reinforcement-Learning/blob/main/%E4%BE%8B%E9%A1%8C%E8%BF%B7%E8%B7%AF.png)
+
 方法：Q-学習法 & epsilon-greedy TD(0)
 # 1.epsilon-greedy TD(0)学習法のアルゴリズム概要
 ![image text](https://github.com/KKK12321/Reinforcement-Learning/blob/main/TD%E5%AD%A6%E7%BF%92%E6%B3%95%E3%82%A2%E3%83%AB%E3%82%B3%E3%82%99%E3%83%AA%E3%82%B9%E3%82%99%E3%83%A0.png)
